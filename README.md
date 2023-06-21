@@ -1,0 +1,2 @@
+# MyJokesExtension
+Extension for jokes
